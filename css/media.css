@@ -1,0 +1,114 @@
+@media(max-width:768px){
+    .navbar-light .navbar-toggler {
+        color: transparent;
+        border-color: #4E9525;
+    }
+    .contact h1{
+        font-size: 26px;
+    }
+    .book{
+        width: 168px;
+    }
+    .phone_subs{
+        width: 80%;
+    }
+    .text_contact{
+        display: block;
+    }
+    .mobile_footer{
+        display: block;
+        text-align: center;
+    }
+    .footer_width{
+        width: 100%;
+    }
+}
+@media(max-width:767px){
+    .service_item{
+        margin-bottom: 30px;
+    }
+    .service_item_1 h2{
+        font-size: 28px;
+    }
+    .service_item_1 p{
+        font-size: 14px;
+    }
+    .text-center{
+        justify-content: center;
+    }
+    .shawod_item h5{
+        font-size: 15px;
+    }
+    .text-center p, .mobile_testi p, .blog_content{
+        margin-bottom: 40px;
+    }
+    .contact{
+        text-align: left !important;
+        margin-top: 30px;
+    }
+    .book{
+        width: 516px;
+    }
+}
+@media(max-width:575px){
+    .banner_content{
+        text-align: center;
+    }
+    .banner_content h1{
+        font-size: 48px;
+    }
+    .mobile_lawn img{
+        width: 130px;
+    }
+    .service_item_1{
+        text-align: center !important;
+        margin-top: 60px !important;
+    }
+    .image_part{
+        text-align: center;
+    }
+    .client{
+        text-align: center;
+    }
+}
+@media(max-width:575px){
+    .image_part{
+        width: 100px;
+        margin: auto;
+    }
+    .mobile_lawn img{
+        width: 90px;
+    }
+    .welcome_text h2, h6, p{
+        text-align: center;
+    }
+    .image_part {
+        margin: auto !important;
+    }
+    .mobile_footer{
+        text-align: center;
+    }
+    .m_contact{
+        text-align: left;
+    }
+}
+@media(max-width:375px){
+    .LawnCare{
+        display: none;
+    }
+    .banner_content h1 {
+        font-size: 38px;
+    }
+    .mobile_lawn img {
+        width: 75px;
+    }
+    .d-flex{
+        display: block !important;
+    }
+    .btn_search{
+        margin-top: 10px;
+    }
+    .phone_subs {
+        width: 100%;
+    }
+}
